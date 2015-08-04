@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Geo Fence App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mapButton">map</string>
+    <string name="placeButton">place</string>
+    <string name="Map">Map</string>
+
+
+</resources>

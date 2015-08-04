@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Geo Fence App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mapButton">map</string>
+    <string name="placeButton">place</string>
+    <string name="Map">Map</string>
+    <string name="not_connected">Google API is not connected!</string>
+    <string name="geofence_not_available">Geofence is not available</string>
+    <string name="geofence_too_many_geofences">too many geofences</string>
+    <string name="geofence_too_many_pending_intents">Too many pending intent</string>
+    <string name="unknown_geofence_error">Unknown error</string>
+    <string name="geofence_transition_entered">Enter</string>
+    <string name="geofence_transition_exited">Exit</string>
+    <string name="unknown_geofence_transition">unknown</string>
+    <string name="geofence_transition_notification_text">Transition :</string>
+
+
+</resources>
